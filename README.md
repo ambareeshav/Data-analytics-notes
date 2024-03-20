@@ -5,13 +5,13 @@ A **modern data ecosystem** includes a network of interconnected and continually
 - Emerging technologies such as Cloud Computing, Machine Learning, and Big Data, are continually reshaping the data ecosystem and the possibilities it offers.
 - Data Engineers, Data Analysts, Data Scientists, Business Analysts, and Business Intelligence Analysts, all play a vital role in the ecosystem for deriving insights and business results from data.
 
-**Primary types of Data Analysis: **
+**Primary types of Data Analysis**
 - Descriptive Analytics, that helps decode “What happened.” 
 - Diagnostic Analytics, that helps us understand “Why it happened.” 
 - Predictive Analytics, that analyzes historical data and trends to suggest “What will happen next.” 
 - Prescriptive Analytics, that prescribes “What should be done next.” 
 
-T**Data Analysis process**
+**Data Analysis process**
 - Developing an understanding of the problem and the desired outcome. 
 - Setting a clear metric for evaluating outcomes. 
 - Gathering, cleaning, analyzing, and mining data to interpret results. 
